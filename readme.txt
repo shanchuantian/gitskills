@@ -1,5 +1,5 @@
 gitskills
-there will have some bugs in the future.
+there will have some bugs in the future. I had debug.
 creating a new branch is quick and simple.
 I am writting some new function, ing....
 now I wanna say ....
