@@ -1,1 +1,2 @@
 hello desktop
+hello this is laptop
